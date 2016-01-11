@@ -1,0 +1,6 @@
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.exe.config
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.exe
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.pdb
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.csprojResolveAssemblyReference.cache
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.exe
+D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.pdb
