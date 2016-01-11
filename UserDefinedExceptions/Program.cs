@@ -17,7 +17,17 @@ namespace UserDefinedExceptions
             }
             catch (TempIsZeroException e)
             {
-                Console.WriteLine("TempIsZeroException: {0}", e.Message);
+                Console.WriteLine("Exception Occured \n TempIsZeroException: {0}", e.Message);
+            }
+            try
+            {
+
+                var temp2 = new Temperature(10);
+                temp2.showTemp();
+            }
+            catch (Exception)
+            { 
+                throw;
             }
             Console.ReadKey();
         }
@@ -34,6 +44,14 @@ namespace UserDefinedExceptions
     public class Temperature
     {
         int temperature = 0;
+        public Temperature()
+        {
+
+        }
+        public Temperature(int temp)
+        {
+            temperature = temp;
+        }
         public void showTemp()
         {
             if (temperature == 0)
@@ -42,7 +60,7 @@ namespace UserDefinedExceptions
             }
             else
             {
-                Console.WriteLine("Temperature: {0}", temperature);
+                Console.WriteLine("No Exception, We got temperature value as : {0}", temperature);
             }
         }
     }

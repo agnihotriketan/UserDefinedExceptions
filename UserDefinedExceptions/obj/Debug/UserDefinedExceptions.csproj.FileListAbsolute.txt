@@ -4,3 +4,9 @@ D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\Us
 D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.csprojResolveAssemblyReference.cache
 D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.exe
 D:\MyGit\FileOperations\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.pdb
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.exe.config
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.exe
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.pdb
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.exe
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\bin\Debug\UserDefinedExceptions.pdb
+D:\MyGit\UserDefinedExceptions\UserDefinedExceptions\UserDefinedExceptions\obj\Debug\UserDefinedExceptions.csprojResolveAssemblyReference.cache
